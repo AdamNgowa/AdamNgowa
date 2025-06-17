@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AdamNgowa
-- 👀 I’m interested in Flutter,Javascript,Php and Python
+- 👀 I’m interested in Flutter,Javascript,Php.
 - 🌱 I’m currently learning Flutter,Javascript,React and Node.js 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me adamngowa3@gmail.com
