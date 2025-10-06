@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AdamNgowa
-- 👀 I’m interested in Flutter,Javascript,Php.
-- 🌱 I’m currently learning Flutter,Javascript,React and Node.js 
+- 👀 I’m interested in Javascript|React|Typescript & Php|Laravel & Flutter. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me adamngowa3@gmail.com
 - 😄 Pronouns: HE/HIM
